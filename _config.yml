@@ -6,7 +6,7 @@ bio:                'Les 150 ans de la ligne ferroviaire du Lioran'
 description:        'Les 150 ans de la ligne ferroviaire du Lioran'
 locale:             fr_FR
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://150anslignedulioran.fr" # the base hostname & protocol for your site
 
 defaults:
 - scope:
