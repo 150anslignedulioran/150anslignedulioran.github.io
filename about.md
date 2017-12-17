@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: 150ième anniversaire de la ligne ferroviaire du Lioran - A propos
+description: Plus de détails sur le 150ième anniversaire de la ligne ferroviaire du Lioran 
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
-    changefreq: weekly
 ---
 ## A propos de cet évènement
 
