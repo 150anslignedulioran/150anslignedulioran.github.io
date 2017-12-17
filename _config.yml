@@ -1,8 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:           'ligne ferroviaire du Lioran'
+subtitle:        '150<sup>ième</sup> anniversaire'
+short_title:        '150<sup>ième</sup> anniversaire de la ligne ferroviaire du Lioran'
+bio:                'Les 150 ans de la ligne ferroviaire du Lioran'
+description:        'Les 150 ans de la ligne ferroviaire du Lioran'
+locale:             fr_FR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -11,12 +13,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/articles/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /articles/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -31,19 +33,25 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus:
+  site_id: '150anslignedulioran'
 
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           'anniversaire.lelioran.7'
 instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           '15300 - Le Lioran'
+location_link:      'https://goo.gl/maps/4imBQbkRJx32'
 phone:              310-318-5555
-email:              info@default.com
+email:
+  contact: 'contact@150anslignedulioran.fr'
+
+map:
+  lioran_url: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11268.794258721273!2d2.7489532!3d45.0817664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd86b54b1c2edc19f!2sLe+Lioran!5e0!3m2!1sfr!2sfr!4v1513533462000'
 
 # Gems
 gems:
@@ -54,7 +62,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/articles/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
