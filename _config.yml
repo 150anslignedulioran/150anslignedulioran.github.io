@@ -37,7 +37,7 @@ disqus:
   site_id: '150anslignedulioran'
 
 # Social
-analytics-id:       "default"
+gtag_manager:       'KKLN36C'
 twitter:            default
 facebook:           'events/374763476305255'
 instagram:          default
