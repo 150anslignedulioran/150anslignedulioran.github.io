@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 150ième anniversaire de la ligne ferroviaire du Lioran - A propos
-description: Plus de détails sur le 150ième anniversaire de la ligne ferroviaire du Lioran 
+title: 150ème anniversaire de la ligne ferroviaire du Lioran - A propos
+description: Plus de détails sur le 150ème anniversaire de la ligne ferroviaire du Lioran 
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
