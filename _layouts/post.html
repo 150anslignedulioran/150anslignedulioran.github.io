@@ -40,7 +40,23 @@ comments: true
       				<h1>{{page.title}}</h1>
       				<p>{{page.excerpt}}</p>
       			</header>
-      			<div class="image main"><img src="{{page.image}}" alt=""></div>
+                        {% if page.head_image_centered %}
+                        <center>
+                        {% endif %}
+                        {% if page.head_image_raw_classes %}
+                        <div class="{{ page.head_image_raw_classes | join(' ') }}">
+                        {% else %}
+      			<div class="image main">
+                        {% endif %}
+                        {% if page.head_image %}
+                        <img src="{{page.head_image}}" alt="">
+                        {% else %}
+                        <img src="{{page.image}}" alt="">
+                        {% endif %}
+                        </div>
+                        {% if page.head_image_centered %}
+                        </center>
+                        {% endif %}
       			<p>{{content}}</p>
       		</section>
 
