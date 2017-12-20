@@ -44,7 +44,7 @@ comments: true
                         <center>
                         {% endif %}
                         {% if page.head_image_raw_classes %}
-                        <div class="{{ page.head_image_raw_classes | join(' ') }}">
+                        <div class="{{ page.head_image_raw_classes | join: ' ' }}">
                         {% else %}
       			<div class="image main">
                         {% endif %}
