@@ -2,12 +2,12 @@
 layout: post
 title:  "Historique de la ligne ferroviaire du Lioran"
 date:   2017-12-20
-excerpt: "Les dates marquantes de la ligne du Lioran"
-image: "/images/old_loco.png"
+excerpt: "Les dates clés de la ligne du Lioran"
+image: "/images/LocovapeurLeLioran.JPG"
 comments: false
 ---
 
-## Dates marquantes
+## Dates clés à retenir
 
 ### 5 novembre 1861
 
