@@ -11,7 +11,7 @@ head_image_centered: true
 comments: false
 ---
 
-## Résumé du programme de l'évènement!
+## Résumé du programme de l'évènement:
 
 * Circulations de matériels historiques au départ de Limoges, Toulouse, Nîmes, Clermont-Ferrand, Montluçon, Aurillac et St-Flour à destination de la gare du Lioran (trains à vapeur, diesels et autorails anciens).
 
@@ -27,4 +27,4 @@ comments: false
 
 * Exposition photographique sur les thèmes: historique de la ligne et de la station, tourisme hivernal (trains de skieurs), exploitation hivernale (déneigement), transport de bestiaux pour l’estive à destination d’Allanche et Landeyrat via Le Lioran.
 
-* Conférence sur l'histoire de la ligne et la construction du tunnel samedi 28 et dimanche 29 juillet à 14h30
+* Conférence sur l'histoire de la ligne et la construction du tunnel.
