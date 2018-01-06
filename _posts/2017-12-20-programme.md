@@ -21,10 +21,10 @@ comments: false
 
 * Accueil des voyageurs en gare du Lioran par groupe folklorique.
 
-* Exposition statique en gare du Lioran du matériel de déneigement actuellement employé sur la ligne.
+* Exposition en gare du Lioran du matériel de déneigement actuellement employé sur la ligne.
 
 * Exposition de modélisme représentant les ouvrages d’arts et les gares du Cantal.
 
-* Exposition photographique avec 4 thèmes retenus: historique de la ligne et de la station, tourisme hivernale (trains de skieurs), exploitation hivernale (déneigement), transport de bestiaux pour l’estive à destination d’Allanche et Landeyrat via Le Lioran.
+* Exposition photographique avec 4 thèmes retenus: historique de la ligne et de la station, tourisme hivernal (trains de skieurs), exploitation hivernale (déneigement), transport de bestiaux pour l’estive à destination d’Allanche et Landeyrat via Le Lioran.
 
-* Conférence sur les 4 thèmes retenus.  
+* Conférence sur l'histoire de la ligne et la construction du tunnel.
