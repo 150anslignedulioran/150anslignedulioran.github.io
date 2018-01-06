@@ -11,17 +11,17 @@ head_image_centered: true
 comments: false
 ---
 
-## Résumé du programme de l'évènement
+## Résumé du programme de l'évènement!
 
 * Circulations de matériels historiques au départ de Limoges, Toulouse, Nîmes, Clermont-Ferrand, Montluçon, Aurillac et St-Flour à destination de la gare du Lioran (trains à vapeur, diesels et autorails anciens).
 
 * Tarification spéciale TER « Illico Promo Vacances » au départ des gares de la région Auvergne – Rhône – Alpes et à destination de la gare du Lioran.
 
-* Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...).
-
 * Accueil des voyageurs en gare du Lioran par groupe folklorique La Piatoune.
 
 * Exposition en gare du Lioran du matériel de déneigement actuellement employé sur la ligne.
+
+* Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...).
 
 * Exposition de modélisme représentant les ouvrages d’arts et les gares du Cantal.
 
