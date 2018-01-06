@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Historique de la ligne ferroviaire du Lioran"
-date:   2017-12-20
+date:   2017-12-17
 excerpt: "Dates clés à retenir"
 image: "/images/LocovapeurLeLioran.JPG"
 comments: false
