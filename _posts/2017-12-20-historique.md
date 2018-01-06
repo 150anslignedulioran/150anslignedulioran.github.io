@@ -39,4 +39,4 @@ Les travaux du percement débutèrent le 19 avril 1865, les maçonneries de la v
 
 Pour en savoir plus, vous pouvez vous procurer l'ouvrage ["Les Etoiles Ferroviaires du Cantal Aurillac et Neussargues"](http://www.boutiquedelaviedurail.com/les-etoiles-ferroviares-du-cantal,fr,4,110303.cfm) aux éditions de La Vie du Rail.
 
-![Réseau ferré du Cantal](cartecantal.jpg)
+![Réseau ferré du Cantal](/images/cartecantal.jpg)
