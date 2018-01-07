@@ -9,7 +9,8 @@ head_image_raw_classes:
 head_image_centered: true
 comments: false
 ---
-###Samedi 28 juillet
+
+## Samedi 28 juillet
 
 * Chemins de Fer de la Haute Auvergne CFHA propose 1 aller-retour au départ de St-Flour avec l'autorail X2403 classé "monument historique".
 
@@ -19,7 +20,7 @@ comments: false
 
 * Train Historique de Toulouse propose 1 aller-retour depuis la ville rose avec arrêts comemrciaux à St-Sulpice, Villefranche de Rouergue, Capdenac, Figeac, Maurs.
 
-###Dimanche 29 juillet
+## Dimanche 29 juillet
 
 * Chemins de Fer de la Haute Auvergne CFHA propose 1 aller-retour au départ de St-Flour avec l'autorail X2403 classé "monument historique".
 
@@ -29,4 +30,4 @@ comments: false
 
 * AP 2800 Train Bleu du Sud propose un train croisière au départ de Nîmes à destination d'Aurillac avec arrêts commerciaux à Avignon, Valence, Lyon-Perrache, Saint-Etienne, Le-Puy-en-Velay, Arvant, Massiac, Neussargues, Murat. Participation à la fête de la Montagne le dimanche 29-07. Renseignements et inscription [AP 2800 Train Bleu du Sud] (http://ap2800.nuxit.net/assets/voyage-ap2800-lioran.pdf)
 
-Train à Vapeur d'Auvergne propose 1 aller-retour au départ de Clermont-Ferrand avec arrêts commerciaux à Issoire, Arvant, Massiac, Neussargues, Murat.
+* Train à Vapeur d'Auvergne propose 1 aller-retour au départ de Clermont-Ferrand avec arrêts commerciaux à Issoire, Arvant, Massiac, Neussargues, Murat.
