@@ -6,7 +6,7 @@ sitemap:
     priority: 0.7
     lastmod: 2017-11-02
 ---
-## A propos de cet évènement
+## Informations pratiques
 
 2018 marquera le 150<sup>ème</sup> anniversaire de la ligne du Lioran, point culminant de la transversale Clermont-Fd - Toulouse.
 
