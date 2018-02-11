@@ -8,4 +8,4 @@ sitemap:
 ---
 ## Partenaires
 
-[![Région Auverge-Rhône-Alpes][/images/partenaire-logo-auvergne-rhone-alpes.png]][https://www.auvergnerhonealpes.fr]
+[![Région Auverge-Rhône-Alpes](/images/partenaire-logo-auvergne-rhone-alpes.png "Partenaire Région Auverge-Rhône-Alpes")](https://www.auvergnerhonealpes.fr)
