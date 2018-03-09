@@ -13,7 +13,7 @@ comments: false
 
 ## Résumé du programme de l'évènement:
 
-* Circulations de matériels historiques au départ de Limoges, Toulouse, Nîmes, Clermont-Ferrand, Montluçon, Aurillac et St-Flour à destination de la gare du Lioran (trains à vapeur, diesels et autorails anciens).
+* Circulations de matériels historiques au départ de Limoges, Toulouse, Langogne, Clermont-Ferrand, Montluçon, Aurillac et St-Flour à destination de la gare du Lioran (trains à vapeur, diesels et autorails anciens).
 
 * Tarification spéciale TER « Illico Promo Vacances » au départ des gares de la région Auvergne – Rhône – Alpes et à destination de la gare du Lioran.
 
