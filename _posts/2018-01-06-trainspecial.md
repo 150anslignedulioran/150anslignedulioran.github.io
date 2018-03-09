@@ -20,7 +20,7 @@ comments: false
 
 * Train Historique de Toulouse propose 1 aller-retour depuis la ville rose avec arrêts comemrciaux à St-Sulpice, Villefranche de Rouergue, Capdenac, Figeac, Maurs.
 
-* AP 2800 Train Bleu du Sud propose 1 aller-retour au départ de Langogne avec les autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscription [AP 2800 Train Bleu du Sud](http://ap2800.nuxit.net/assets/voyage-ap2800-lioran.pdf)
+* AP 2800 Train Bleu du Sud propose 1 aller-retour au départ de Langogne avec les autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscription [AP 2800 Train Bleu du Sud](http://ap2800.nuxit.net/lioran.html)
 
 ## Dimanche 29 juillet
 
