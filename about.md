@@ -22,4 +22,4 @@ Vous pourrez vous y rendre en TER ou bien en trains spéciaux au départ de Toul
 
 ## Restauration
 
-[Restauration](http://www.lelioran.com/bars-restaurants.html)
+[Bars-restaurants](http://www.lelioran.com/bars-restaurants.html)
