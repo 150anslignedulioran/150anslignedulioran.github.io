@@ -12,7 +12,7 @@ sitemap:
 
 A cette occasion des festivités seront organisées les samedi 28 et dimanche 29 juillet 2018 conjointement avec la Fête de la montagne au Lioran.
 
-Vous pourrez vous y rendre en TER ou bien en trains spéciaux au départ de Toulouse, Limoges, Montluçon, Avignon, Clermont-Fd, Aurillac et St-Flour.
+Vous pourrez vous y rendre en TER ou bien en trains spéciaux au départ de Toulouse, Limoges, Montluçon, Langogne, Clermont-Fd, Aurillac et St-Flour.
 
 ## Emplacement
 
