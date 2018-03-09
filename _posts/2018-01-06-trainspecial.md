@@ -18,9 +18,9 @@ comments: false
 
 * AAATV propose 1 aller-retour au départ de Montluçon avec arrêts commerciaux à Commentry, Gannnat, Clermont-Ferrand, Issoire.
 
-* Train Historique de Toulouse propose 1 aller-retour depuis la ville rose avec arrêts comemrciaux à St-Sulpice, Villefranche de Rouergue, Capdenac, Figeac, Maurs.
+* Train Historique de Toulouse propose 1 aller-retour depuis la ville rose avec arrêts comemrciaux à St-Sulpice, Villefranche de Rouergue, Capdenac, Figeac, Maurs [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/categorie-produit/voyages/programme-2018/page/3/#)
 
-* AP 2800 Train Bleu du Sud propose 1 aller-retour au départ de Langogne avec les autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscription [AP 2800 Train Bleu du Sud](http://ap2800.nuxit.net/lioran.html)
+* AP 2800 Train Bleu du Sud propose 1 aller-retour au départ de Langogne via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscription [AP 2800 Train Bleu du Sud](http://ap2800.nuxit.net/lioran.html)
 
 ## Dimanche 29 juillet
 
