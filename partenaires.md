@@ -8,4 +8,4 @@ sitemap:
 ---
 ## Partenaires
 
-(https://github.com/150anslignedulioran/150anslignedulioran.github.io/blob/master/images/Partenaires.JPG)
+![](https://github.com/150anslignedulioran/150anslignedulioran.github.io/blob/master/images/Partenaires.JPG)
