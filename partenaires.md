@@ -8,4 +8,6 @@ sitemap:
 ---
 ## Partenaires
 
+![Partenaires](https://github.com/150anslignedulioran/150anslignedulioran.github.io/blob/master/images/Partenaires.JPG)
+
 [![Région Auverge-Rhône-Alpes](/images/partenaire-logo-auvergne-rhone-alpes.png "Partenaire Région Auverge-Rhône-Alpes")](https://www.auvergnerhonealpes.fr){:target="_blank"}
