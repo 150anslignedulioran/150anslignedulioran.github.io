@@ -18,7 +18,9 @@ Vous pourrez vous y rendre en TER ou bien en trains spéciaux au départ de Toul
 
 ## Hébergement
 
-[Au coeur de la station du Lioran! Hôtel du Rocher du Cerf](http://www.lerocherducerf.com/fr)
+Au coeur de la station du Lioran: [Hôtel du Rocher du Cerf](http://www.lerocherducerf.com/fr)
+
+Dans un périmètre proche du Lioran: [Liste Hôtels](http://www.lelioran.com/liste-hotels.html) 
 
 ## Restauration
 
