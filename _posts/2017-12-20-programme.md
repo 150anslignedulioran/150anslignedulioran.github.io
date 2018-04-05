@@ -23,12 +23,4 @@ comments: false
 
 * Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...).
 
-* Activités en station du Lioran en lien avec le 150ème anniversaire de la ligne du Lioran:
-
-Exposition de modélisme représentant les ouvrages d’arts et les gares du Cantal.
-
-Exposition sur les thèmes: historique de la ligne et de la station, tourisme hivernal (trains de skieurs), exploitation hivernale (déneigement), transport de bestiaux pour l’estive à destination d’Allanche et Landeyrat via Le Lioran.
-
-Conférence sur l'histoire de la ligne et la construction du tunnel.
-
-Simulateur de conduite.
+* Activités en station du Lioran en lien avec le 150ème anniversaire de la ligne du Lioran (modélisme, exposition photo et historique, conférence, simulateur de conduite). Ces activités seront regroupées au niveau de la patinoire du Lioran.
