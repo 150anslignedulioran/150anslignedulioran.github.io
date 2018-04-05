@@ -8,6 +8,6 @@ sitemap:
 ---
 ## Partenaires
 
-[![Région Auverge-Rhône-Alpes](/images/partenaire-logo-auvergne-rhone-alpes.png "Partenaire Région Auverge-Rhône-Alpes")](https://www.auvergnerhonealpes.fr){:target="_blank"}
+[![Région Auverge-Rhône-Alpes](/images/logoCR.png "Partenaire Région Auverge-Rhône-Alpes")](https://www.auvergnerhonealpes.fr){:target="_blank"}
 
 [![SNCF](/images/logoSNCF.jpg "Partenaire SNCF")](https://www.ter.sncf.com/auvergne-rhone-alpes/offres/tarifs/illico-promo-vacances){:target="_blank"}
