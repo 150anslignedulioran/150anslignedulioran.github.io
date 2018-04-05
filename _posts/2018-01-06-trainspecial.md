@@ -30,4 +30,4 @@ comments: false
 
 * Autorails du Limousin propose un tour du Massif Central avec étape à Clermont-Ferrand le vendredi 27-07 et Saint-Flour le samedi 28-07. Participation à la fête de la Montagne le dimanche 29-07. Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
 
-## Quelque soit la gare de départ, les tarifs proposés par chaque association incluent l'accès à la navette routière entre la gare et la station du Lioran ainsi que l'accès au téléphérique pour le Plomb du Cantal d'où vous pourrez découvrir le panorama sur les Monts du Cantal vestiges du plus grand stratovolcan d'Europe.
+# Quelque soit la gare de départ, les tarifs proposés par chaque association incluent l'accès à la navette routière entre la gare et la station du Lioran ainsi que l'accès au téléphérique pour le Plomb du Cantal d'où vous pourrez découvrir le panorama sur les Monts du Cantal vestiges du plus grand stratovolcan d'Europe.
