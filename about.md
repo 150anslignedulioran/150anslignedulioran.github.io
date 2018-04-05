@@ -6,15 +6,18 @@ sitemap:
     priority: 0.7
     lastmod: 2017-11-02
 ---
-## Informations pratiques
-
-Vous pourrez vous y rendre en TER ou bien en trains spéciaux au départ de Toulouse, Limoges, Montluçon, Langogne, Clermont-Fd, Aurillac et St-Flour.
 
 ## Emplacement
 
 <center>
   <iframe src="{{ site.map.lioran_url }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </center>
+
+## Transports
+
+Il est fortement conseillé de vous y rendre en train naturellement! Au choix:
+TER: [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/offres/tarifs/illico-promo-vacances)
+Trains spéciaux au départ de Toulouse, Limoges, Montluçon, Langogne, Clermont-Fd, Aurillac et St-Flour.
 
 ## Hébergement
 
