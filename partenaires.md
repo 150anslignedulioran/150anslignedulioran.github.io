@@ -52,9 +52,9 @@ sitemap:
 
 <figure>
   <a href="http://www.lelioran.com/" target="_blank">
-    <img width="40%" height="40%" src="/images/logo-lioran.jpg" title="Le Lioran" alt="Le Lioran"/>
+    <img width="40%" height="40%" src="/images/logo-lioran.jpg" title="SAEM Le Lioran" alt="SAEM Le Lioran"/>
   </a>
-  <figcaption>Le Lioran</figcaption>
+  <figcaption>SAEM Le Lioran</figcaption>
 </figure>
 
 </center>
