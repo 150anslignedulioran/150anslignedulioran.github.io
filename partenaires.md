@@ -12,7 +12,7 @@ sitemap:
 
 <figure>
   <a href="https://www.auvergnerhonealpes.fr" target="_blank">
-    <img width="40%" height="40%" src="/images/logo-auvergne-rhone-alpes.png" title="Partenaire Région Auverge-Rhône-Alpes" alt="Partenaire Région Auverge-Rhône-Alpes"/>
+    <img width="60%" height="60%" src="/images/logo-auvergne-rhone-alpes.png" title="Partenaire Région Auverge-Rhône-Alpes" alt="Partenaire Région Auverge-Rhône-Alpes"/>
   </a>
   <figcaption>Région Auverge-Rhône-Alpes</figcaption>
 </figure>
