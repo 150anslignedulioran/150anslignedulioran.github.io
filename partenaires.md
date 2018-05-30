@@ -21,7 +21,7 @@ sitemap:
 <hr width="70%"/>
 
 <figure>
-  <a href="https://www.ter.sncf.com/auvergne-rhone-alpes" target="_blank">
+  <a href="https://goo.gl/HMVJh1" target="_blank">
     <img width="30%" height="30%" src="/images/Logo_SNCF_TER_Auverge_Rhone_Alpes.png" title="Partenaire TER Auvergne-Rhône-Alpes" alt="Partenaire Auverge-Rhône-Alpes"/>
   </a>
   <figcaption>TER Auvergne-Rhône-Alpes</figcaption>
