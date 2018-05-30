@@ -15,11 +15,11 @@ sitemap:
 
 ## Transports
 
-Il est conseillé de vous y rendre en train naturellement! Au choix:
+Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes !
 
-TER: [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/offres/tarifs/illico-promo-vacances)
+[Billets TER Illico Promo Vacances](https://goo.gl/HMVJh1)
 
-Trains spéciaux au départ de Toulouse, Limoges, Montluçon, Langogne, Clermont-Fd, Aurillac et St-Flour.
+Découvrez sinon la nouvelle application de covoiturage [movici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
 
 ## Hébergement
 
