@@ -13,14 +13,14 @@ comments: false
 
 ## Résumé du programme de l'évènement:
 
-* Circulations de matériels ferroviaires préservés au départ de Limoges, Toulouse, Langogne, Clermont-Ferrand, Montluçon, Aurillac et St-Flour à destination de la gare du Lioran (diesels et autorails anciens).
+* Circulations de matériels ferroviaires préservés au départ de Limoges, Toulouse, Langogne, Aurillac et St-Flour à destination de la gare du Lioran (diesels et autorails anciens).
 
-* Tarification spéciale [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/offres/tarifs/illico-promo-vacances) au départ des gares de la région Auvergne – Rhône – Alpes et à destination du Lioran.
+* Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes ! [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/loisirs/evenements/150-ans-lioran/%5Btab%5Dplusdinfos) Bénéficiez de -40 % sur le tarif normal pour tous et de la gratuité pour les -12 ans. 
 
 * Accueil des voyageurs en gare du Lioran par groupe folklorique La Piatoune.
 
-* Exposition en gare du Lioran du matériel de déneigement actuellement employé sur la ligne.
+* Exposition en gare du Lioran de locomotives Diesel anciennes et du chasse neige rotatif d'Aurillac.
 
 * Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...).
 
-* Activités en station du Lioran en lien avec le 150ème anniversaire de la ligne du Lioran (modélisme, exposition photo et historique, conférence, simulateur de conduite). Ces activités seront regroupées au niveau de la patinoire du Lioran.
+* Activités en station du Lioran en lien avec le monde ferroviaire (modélisme, exposition photo et historique, conférence, simulateur de conduite). Accès gratuit à ces activités qui seront regroupées au niveau de la patinoire du Lioran.
