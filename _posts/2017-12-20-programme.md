@@ -15,7 +15,7 @@ comments: false
 
 * Circulations de matériels ferroviaires préservés au départ de Limoges, Toulouse, Langogne, Aurillac et St-Flour à destination de la gare du Lioran (diesels et autorails anciens).
 
-* Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes ! [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/loisirs/evenements/150-ans-lioran/%5Btab%5Dplusdinfos) Bénéficiez de -40 % sur le tarif normal pour tous et de la gratuité pour les -12 ans. 
+* Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes ! [Billets TER Illico Promo Vacances](https://www.ter.sncf.com/auvergne-rhone-alpes/loisirs/evenements/150-ans-lioran/%5Btab%5Dplusdinfos): bénéficiez de -40 % sur le tarif normal pour tous et de la gratuité pour les -12 ans. 
 
 * Accueil des voyageurs en gare du Lioran par groupe folklorique La Piatoune.
 
