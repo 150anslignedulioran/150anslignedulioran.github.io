@@ -19,7 +19,7 @@ Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes !
 
 [Billets TER Illico Promo Vacances](https://goo.gl/HMVJh1)
 
-Découvrez sinon la nouvelle application de covoiturage [movici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
+Découvrez sinon la nouvelle application de covoiturage [mov'ici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
 
 ## Hébergement
 
