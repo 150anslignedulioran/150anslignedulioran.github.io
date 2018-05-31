@@ -21,7 +21,7 @@ sitemap:
 <hr width="70%"/>
 
 <figure>
-  <a href="https://www.ter.sncf.com/auvergne-rhone-alpes/loisirs/evenements/150-ans-lioran/%5Btab%5Dplusdinfos" target="_blank">
+  <a href="https://goo.gl/3XjgWe">
     <img width="30%" height="30%" src="/images/Logo_SNCF_TER_Auverge_Rhone_Alpes.png" title="Partenaire TER Auvergne-Rhône-Alpes" alt="Partenaire Auverge-Rhône-Alpes"/>
   </a>
   <figcaption>TER Auvergne-Rhône-Alpes</figcaption>
