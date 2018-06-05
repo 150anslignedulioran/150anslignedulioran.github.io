@@ -15,11 +15,11 @@ sitemap:
 
 ## Transports
 
-Allez-y en train avec SNCF TER Auvergne-Rhône-Alpes !
+Les 28 et 29 juillet, la Région Auvergne-Rhône-Alpes et SNCF vous proposent de vous rendre au 150e anniversaire de la ligne du Lioran. Bénéficiez de 40 % de réduction sur votre trajet pour tout voyage à plusieurs et de la gratuité pour les enfants de moins de 12 ans, grâce au tarif TER illico PROMO VACANCES ! 
 
 Plus d'infos: [Billets TER Illico Promo Vacances](https://goo.gl/3XjgWe)
 
-Découvrez la nouvelle application de covoiturage [mov'ici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
+Découvrez également la nouvelle application de covoiturage [mov'ici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
 
 ## Hébergement
 
