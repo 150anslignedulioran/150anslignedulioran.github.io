@@ -21,6 +21,8 @@ Plus d'infos: [Billets TER Illico Promo Vacances](https://goo.gl/3XjgWe)
 
 Découvrez également la nouvelle application de covoiturage [mov'ici](https://movici.auvergnerhonealpes.fr/) de la Région Auvergne-Rhône-Alpes.
 
+Accès en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpedos de l'Alagnon".
+
 ## Hébergement
 
 Au coeur de la station du Lioran: [Hôtel du Rocher du Cerf](http://www.lerocherducerf.com/fr)
