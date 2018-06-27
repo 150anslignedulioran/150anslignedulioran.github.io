@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programme de l'évènement"
-date:   2017-12-20
+date:   2018-06-27
 excerpt: "Résumé des activités et expositions"
 image: "/images/programme2.png"
 head_image: "/images/programme_main.png"
@@ -21,6 +21,6 @@ comments: false
 
 * Exposition en gare du Lioran de matériel ferroviaire et du chasse neige rotatif d'Aurillac.
 
-* Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...).
+* Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...). Programme précis en cours de définition.
 
-* Activités en station du Lioran en lien avec le monde ferroviaire (modélisme, exposition photo et historique, conférence sur la construction/exploitation de la ligne, simulateur de conduite). Entrée libre pour ces activités qui seront regroupées au niveau de la patinoire du Lioran.
+* Activités en station du Lioran en lien avec le monde ferroviaire (modélisme, exposition photo et historique, conférence de Patrick Garinot sur la construction/exploitation de la ligne, simulateur de conduite). Entrée libre pour ces activités qui seront regroupées au niveau de la patinoire du Lioran.
