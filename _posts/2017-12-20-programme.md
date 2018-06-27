@@ -3,7 +3,7 @@ layout: post
 title:  "Programme de l'évènement"
 date:   2018-06-27
 excerpt: "Résumé des activités et expositions"
-image: "/images/programme2.png"
+image: "/images/LioranAnnonce.jpg"
 head_image: "/images/programme_main.png"
 head_image_raw_classes:
   - image
