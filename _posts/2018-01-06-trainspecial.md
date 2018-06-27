@@ -16,7 +16,7 @@ comments: false
 
 * Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac 14h00 - Le Lioran 14h45/19h15 - Aurillac 20h00 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet.
 
-* Train Historique de Toulouse propose 1 aller-retour Toulouse 06h00 - Le Lioran 12h15/18h00 - Toulouse 00h00 avec arrêts commerciaux à St-Sulpice, Villefranche de Rouergue, Capdenac, Figeac, Maurs. Renseignements et inscriptions: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/categorie-produit/voyages/programme-2018/page/3/#)
+* Train Historique de Toulouse propose 1 aller-retour Toulouse 06h00 - Le Lioran 12h15/18h00 - Toulouse 00h00 avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
 * AP 2800 Train Bleu du Sud propose 1 aller-retour Langogne 08h15 - Le Lioran 12h00/17h30 - Langogne 21h30 via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Tarifs et inscriptions dès maintenant: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
