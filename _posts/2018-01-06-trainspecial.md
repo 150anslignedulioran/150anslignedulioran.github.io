@@ -10,8 +10,6 @@ head_image_centered: true
 comments: false
 ---
 
-Mise à jour: 20/06/2018
-
 ## Samedi 28 juillet
 
 * Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour St-Flour 10h00 - Le Lioran 11h00/16h45 - St-Flour 17h35 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet.
