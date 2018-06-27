@@ -12,7 +12,7 @@ sitemap:
 
 <figure>
   <a href="https://www.auvergnerhonealpes.fr" target="_blank">
-    <img width="60%" height="60%" src="/images/logo-auvergne-rhone-alpes.png" title="Partenaire Région Auverge-Rhône-Alpes" alt="Partenaire Région Auverge-Rhône-Alpes"/>
+    <img width="50%" height="50%" src="/images/logo-auvergne-rhone-alpes.png" title="Partenaire Région Auverge-Rhône-Alpes" alt="Partenaire Région Auverge-Rhône-Alpes"/>
   </a>
   <figcaption>Région Auverge-Rhône-Alpes</figcaption>
 </figure>
@@ -22,7 +22,7 @@ sitemap:
 
 <figure>
   <a href="https://goo.gl/3XjgWe">
-    <img width="30%" height="30%" src="/images/Logo_SNCF_TER_Auverge_Rhone_Alpes.png" title="Partenaire TER Auvergne-Rhône-Alpes" alt="Partenaire Auverge-Rhône-Alpes"/>
+    <img width="40%" height="40%" src="/images/Logo_SNCF_TER_Auverge_Rhone_Alpes.png" title="Partenaire TER Auvergne-Rhône-Alpes" alt="Partenaire Auverge-Rhône-Alpes"/>
   </a>
   <figcaption>TER Auvergne-Rhône-Alpes</figcaption>
 </figure>
