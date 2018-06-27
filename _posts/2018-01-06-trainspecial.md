@@ -36,4 +36,6 @@ Les horaires des trains sont donnés à titre indicatifs et sont en cours de fin
 
 Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
 
-### IMPORTANT: quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés par chaque association incluent l'accès au téléphérique pour le Plomb du Cantal d'où vous pourrez découvrir le panorama sur les Monts du Cantal et le Massif du Sancy!
+### IMPORTANT:
+Descendez du train et accédez directement en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpedos de l'Alagnon".
+Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés par chaque association incluent l'accès au téléphérique pour le Plomb du Cantal d'où vous pourrez découvrir le panorama sur les Monts du Cantal et le Massif du Sancy!
