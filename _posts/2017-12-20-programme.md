@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programme de l'évènement"
-date:   2018-06-27
+date:   2018-06-29
 excerpt: "Résumé des activités et expositions"
 image: "/images/LioranAnnonce.jpg"
 head_image: "/images/programme_main.png"
