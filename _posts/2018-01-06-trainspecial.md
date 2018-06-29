@@ -3,7 +3,7 @@ layout: post
 title:  "Trains spéciaux"
 date:   2018-06-29
 excerpt: "Embarquez à destination du Lioran!"
-image: "/images/2403.jpg"
+image: "/images/2403bis.jpg"
 head_image_raw_classes:
   - image
 head_image_centered: true
