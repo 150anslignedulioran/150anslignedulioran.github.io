@@ -16,9 +16,9 @@ comments: false
 
 * Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac (14h00) - Le Lioran (14h45/19h15) - Aurillac (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet par téléphone.
 
-* Train Historique de Toulouse propose 1 aller-retour Toulouse 06h00 - Le Lioran 12h15/18h00 - Toulouse 00h00 avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions possibles dès maintenant: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
+* Train Historique de Toulouse propose 1 aller-retour Toulouse (06h00) - Le Lioran (12h15/18h00) - Toulouse (00h00) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
-* AP 2800 Train Bleu du Sud propose 1 aller-retour Langogne 08h15 - Le Lioran 12h00/17h30 - Langogne 21h30 via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
+* AP 2800 Train Bleu du Sud propose 1 aller-retour Langogne (08h15) - Le Lioran (12h00/17h30) - Langogne (21h30) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
 Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
 
