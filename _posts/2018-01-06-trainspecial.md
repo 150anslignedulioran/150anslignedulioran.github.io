@@ -12,9 +12,9 @@ comments: false
 
 ## Samedi 28 juillet
 
-* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour St-Flour (10h00) - Le Lioran (11h00/16h45) - St-Flour (17h35) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet par téléphone.
+* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour St-Flour (10h00) - Le Lioran (11h00/16h45) - St-Flour (17h35) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone et par internet à partir du 4 juillet 14h00.
 
-* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac (14h00) - Le Lioran (14h45/19h15) - Aurillac (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet par téléphone.
+* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac (14h00) - Le Lioran (14h45/19h15) - Aurillac (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone et par internet à partir du 4 juillet 14h00.
 
 * Train Historique de Toulouse propose 1 aller-retour Toulouse (06h00) - Le Lioran (12h15/18h00) - Toulouse (00h00) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
@@ -24,9 +24,9 @@ Les horaires des trains sont donnés à titre indicatifs et sont en cours de fin
 
 ## Dimanche 29 juillet
 
-* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour St-Flour 13h30 - Le Lioran 14h30/19h00 - St-Flour 20h00 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet par téléphone.
+* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour St-Flour 13h30 - Le Lioran 14h30/19h00 - St-Flour 20h00 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone et par internet à partir du 4 juillet 14h00.
 
-* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac 09h15 - Le Lioran 10h00/16h25 - Aurillac 17h15 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles début juillet par téléphone.
+* Chemins de Fer de la Haute Auvergne CFHA en partenariat avec Autorails de Bourgogne Franche Comté ABFC proposent 1 aller-retour Aurillac 09h15 - Le Lioran 10h00/16h25 - Aurillac 17h15 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone et par internet à partir du 4 juillet 14h00.
 
 * Autorails du Limousin propose un tour du Massif Central avec étape à Clermont-Ferrand le vendredi 27-07 et Saint-Flour le samedi 28-07. Participation à la fête de la Montagne le dimanche 29-07. Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
 
