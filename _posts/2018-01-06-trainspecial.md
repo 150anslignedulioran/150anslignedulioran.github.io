@@ -18,9 +18,13 @@ comments: false
 
 * Train Historique de Toulouse propose 1 aller-retour Toulouse (06h00) - Le Lioran (12h15/18h00) - Toulouse (00h00) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
-* AP 2800 Train Bleu du Sud propose 1 aller-retour Langogne (08h15) - Le Lioran (12h00/17h30) - Langogne (21h30) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Monistrol, Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
+* AP 2800 Train Bleu du Sud propose 1 aller-retour Langogne (08h15) - Le Lioran (12h00/17h30) - Langogne (21h30) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
 Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
+
+## IMPORTANT:
+A la descente du train et accédez directement en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpedos de l'Alagnon".
+Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés par chaque association incluent l'accès au téléphérique du Plomb du Cantal (1856m) d'où vous pourrez découvrir le panorama sur les Monts du Cantal et le Massif du Sancy!
 
 ## Dimanche 29 juillet
 
@@ -34,4 +38,4 @@ Les horaires des trains sont donnés à titre indicatifs et sont en cours de fin
 
 ### IMPORTANT:
 A la descente du train et accédez directement en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpedos de l'Alagnon".
-Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés par chaque association incluent l'accès au téléphérique du le Plomb du Cantal (1856m) d'où vous pourrez découvrir le panorama sur les Monts du Cantal et le Massif du Sancy!
+Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés par chaque association incluent l'accès au téléphérique du Plomb du Cantal (1856m) d'où vous pourrez découvrir le panorama sur les Monts du Cantal et le Massif du Sancy!
