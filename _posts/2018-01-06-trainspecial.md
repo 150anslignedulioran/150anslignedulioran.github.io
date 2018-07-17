@@ -16,7 +16,7 @@ comments: false
 
 * Aller-retour Aurillac (13h45) - Le Lioran (14h45/19h00) - Aurillac (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
-* Aller-retour Toulouse (06h00) - Le Lioran (12h15/18h00) - Toulouse (00h00) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue, Capdenac, Figeac, Bagnac, Maurs, Aurillac. Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
+* Aller-retour Toulouse (06h35) - Le Lioran (12h15/18h10) - Toulouse (23h38) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue (8h46/21h46), Capdenac (9h15/20h28), Figeac (10h06/20h18), Bagnac, Maurs (10h31/19h53), Aurillac (11h25/18h47). Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
 * Aller-retour Langogne (08h15) - Le Lioran (12h00/17h30) - Langogne (21h30) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
@@ -33,7 +33,7 @@ Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés
 
 * Aller-retour Aurillac 09h00 - Le Lioran 10h00/16h10 - Aurillac 17h15 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone eauprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
-* Autorails du Limousin propose un tour du Massif Central avec étape à Clermont-Ferrand le vendredi 27-07 et Saint-Flour le samedi 28-07. Participation à la fête de la Montagne le dimanche 29-07. Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
+* Autorails du Limousin propose un tour du Massif Central en 3 étapes: vendredi 27-07 Limoges (10h25) - Montluçon (12h35/17h15) - Clermont-Fd (19h39) / samedi 28-07 Clermont-Fd (8h30) - Langogne (13h15/14h50) - Mende (16h40) - Saint-Flour (19h00) / dimanche 29-07 Saint-Flour (09h00) - Le Lioran (09h50/15h45) - Aurillac (16h30) - Brive (18h20) - Limoges (19h30). Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
 
 Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
 
