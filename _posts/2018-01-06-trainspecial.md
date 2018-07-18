@@ -12,7 +12,7 @@ comments: false
 
 ## Samedi 28 juillet
 
-* Aller-retour St-Flour (09h45) - Le Lioran (11h00/16h30) - St-Flour (17h35) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
+* Aller-retour St-Flour (09h45) - Le Lioran (10h55/16h30) - St-Flour (17h35) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
 * Aller-retour Aurillac (13h45) - Le Lioran (14h45/19h00) - Aurillac (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
