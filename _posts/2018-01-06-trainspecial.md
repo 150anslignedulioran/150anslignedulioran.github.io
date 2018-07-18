@@ -18,7 +18,7 @@ comments: false
 
 * Aller-retour Toulouse (06h35) - Le Lioran (12h15/18h10) - Toulouse (23h38) avec arrêts commerciaux à Montabé, Montastruc, St-Sulpice, Gaillac, Villefranche de Rouergue (8h46/21h46), Capdenac (9h15/20h28), Figeac (10h06/20h18), Bagnac, Maurs (10h31/19h53), Aurillac (11h25/18h47). Renseignements et inscriptions possibles dès maintenant par téléphone 05-61-09-42-61 ou par internet: [Train Historique de Toulouse](https://www.trainhistorique-toulouse.com/nos-voyages/le-lioran-en-auvergne/)
 
-* Aller-retour Langogne (08h15) - Le Lioran (12h00/17h30) - Langogne (21h30) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Langeac, Brioude, Arvant, Massiac, Neussargues, Murat. Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
+* Aller-retour Langogne (08h15) - Le Lioran (11h55/17h40) - Langogne (21h25) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Langeac (9h48/20h00), Brioude (10h19/19h28), Arvant (10h33/19h04), Massiac (10h55/18h41), Neussargues (11h27/18h16), Murat (11h39/18h02). Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
 Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
 
