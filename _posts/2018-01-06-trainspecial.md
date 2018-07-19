@@ -29,9 +29,9 @@ Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés
 
 ## Dimanche 29 juillet
 
-* Aller-retour St-Flour 13h15 - Le Lioran 14h30/18h45 - St-Flour 20h00 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
+* Aller-retour St-Flour (13h15) - Le Lioran (14h30/18h45) - St-Flour (20h00) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone auprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
-* Aller-retour Aurillac 09h00 - Le Lioran 10h00/16h10 - Aurillac 17h15 en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone eauprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
+* Aller-retour Aurillac (09h00) - Le Lioran (10h00/16h10) - Aurillac (17h15) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone eauprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
 * Autorails du Limousin propose un tour du Massif Central en 3 étapes: vendredi 27-07 Limoges (10h25) - Montluçon (12h35/17h15) - Clermont-Fd (19h39) / samedi 28-07 Clermont-Fd (8h30) - Langogne (13h15/14h50) - Mende (16h40) - Saint-Flour (19h00) / dimanche 29-07 Saint-Flour (09h00) - Le Lioran (09h50/15h45) - Aurillac (16h30) - Brive (18h20) - Limoges (19h30). Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
 
