@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programme de l'évènement"
-date:   2018-06-30
+date:   2018-07-13
 excerpt: "Résumé des activités et expositions"
 image: "/images/LioranAnnonceBis.jpg"
 head_image: "/images/programme_main.png"
@@ -23,7 +23,7 @@ comments: false
 
 * Activités en station du Lioran en lien avec la Fête de la Montagne (marché de pays, randonnées à thème, activités sportives, accès au sommet du Plomb du Cantal en téléphérique, etc...). Programme en cours de définition.
 
-* Activités en station du Lioran en lien avec le monde ferroviaire (modélisme, exposition photo et historique, conférence de Patrick Garinot Samedi 28 à 14h30 et dimanche 29 à 11h00 sur la construction/exploitation de la ligne, simulateur informatique de conduite). Entrée libre pour ces activités qui seront regroupées au niveau de la patinoire du Lioran.
+* Activités en station du Lioran en lien avec le monde ferroviaire (modélisme, exposition photo et historique, conférence de Patrick Garinot samedi 28 à 14h30 et dimanche 29 à 11h00 sur la construction/exploitation de la ligne, simulateur informatique de conduite). Entrée libre pour ces activités qui seront regroupées au niveau de la patinoire du Lioran.
 
 * Participation des clubs automobiles "Gentiane Delco" et "Torpedo de l'Alagnon" pour prise en charge des voyageurs entre la gare et la station du Lioran.
 
