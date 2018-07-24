@@ -20,8 +20,6 @@ comments: false
 
 * Aller-retour Langogne (08h15) - Le Lioran (11h55/17h40) - Langogne (21h25) via la célèbre ligne des Cévennes en autorails X2800 avec arrêts commerciaux à Langeac (9h48/20h00), Brioude (10h19/19h28), Arvant (10h33/19h04), Massiac (10h55/18h41), Neussargues (11h27/18h16), Murat (11h39/18h02). Renseignements et inscriptions possibles dès maintenant par téléphone 07-83-11-16-37 ou par internet: [AP 2800 Train Bleu du Sud](https://www.helloasso.com/associations/ap2800/evenements/le-lioran-fete-la-montagne)
 
-Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
-
 ## IMPORTANT:
 A la descente du train, accédez directement en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpédos de l'Alagnon".
 
@@ -34,8 +32,6 @@ Quelle que soit votre gare de départ, les tarifs des trains spéciaux proposés
 * Aller-retour Aurillac (09h00) - Le Lioran (10h00/16h10) - Aurillac (17h15) en autorail Picasso. Tarif unique: 25€/personne (gratuit pour les moins de 4 ans). Renseignements et réservations possibles par téléphone eauprès de l’office de tourisme de Riom-ès-Montagnes au 04-71-78-07-37 et par internet: [CFHA](http://www.gentiane-express.com/blog/150-ans-ligne-du-lioran)
 
 * Autorails du Limousin propose un tour du Massif Central en 3 étapes: vendredi 27-07 Limoges (10h25) - Montluçon (12h35/17h15) - Clermont-Fd (19h39) / samedi 28-07 Clermont-Fd (8h30) - Langogne (13h15/14h50) - Mende (16h40) - Saint-Flour (19h00) / dimanche 29-07 Saint-Flour (09h00) - Le Lioran (09h50/15h45) - Aurillac (16h30) - Brive (18h20) - Limoges (19h30). Renseignements et inscriptions [Autorails du Limousin](http://www.autorail-limousin.fr/index.php/tour-massif-central). Attention ce train est déjà complet!!!
-
-Les horaires des trains sont donnés à titre indicatifs et sont en cours de finalisation.
 
 ## IMPORTANT:
 A la descente du train, accédez directement en station du Lioran depuis la gare SNCF: 20 min à pieds par la piste de la gare, en navette autobus mise à disposition par la commune de Laveissière, en voiture de collection grâce à la participation des clubs automobiles "Gentiane Delco" et "Les Torpédos de l'Alagnon".
